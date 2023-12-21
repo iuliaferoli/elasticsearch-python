@@ -8,6 +8,7 @@ Built so far:
 [Sentiment and Embeddings](/Eland_NLP.py)
 
 To be added:
+- [ ] Uploading data 
 - [ ] Essential Queries Examples
 - [ ] Running a simple Eland Model
 - [ ] Running vector search (+embeddings)
