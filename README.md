@@ -6,9 +6,9 @@ Built so far:
 [Simple Query](/Simple_Query.py)
 - [X] Importing NLP third party models (LLMs)
 [Sentiment and Embeddings](/Eland_NLP.py)
+- [X] [Loading data](loading_data.py)
 
 To be added:
-- [ ] Uploading data 
 - [ ] Essential Queries Examples
 - [ ] Running a simple Eland Model
 - [ ] Running vector search (+embeddings)
