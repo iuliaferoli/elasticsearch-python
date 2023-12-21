@@ -34,4 +34,5 @@ def df_to_doc(df, name_of_index):
 
 
 # Use the Elasticsearch helpers.bulk() method to index the DataFrame data into Elasticsearch
-helpers.bulk(es, df_to_doc(repair_data_df, index_name))
+load = helpers.bulk(es, df_to_doc(repair_data_df, index_name))
+print(load)
