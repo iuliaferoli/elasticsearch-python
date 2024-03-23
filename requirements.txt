@@ -2,4 +2,4 @@ datasets
 langchain
 numpy
 elasticsearch
-eland
+eland==8.12.1
